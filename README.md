@@ -1,4 +1,4 @@
-# PostCSS Portuguese Stylesheets [![Travis](https://travis-ci.org/SaraVieira/postcss-portuguese-stylesheets.svg?branch=master)](https://travis-ci.org/SaraVieira/postcss-portuguese-stylesheets)[![npm](https://badge.fury.io/js/postcss-portuguese-stylesheets.svg)](https://www.npmjs.com/package/postcss-portuguese-stylesheets)
+# PostCSS Portuguese Stylesheets [![Travis](https://travis-ci.org/SaraVieira/postcss-portuguese-stylesheets.svg?branch=master)](https://travis-ci.org/SaraVieira/postcss-portuguese-stylesheets) [![npm](https://badge.fury.io/js/postcss-portuguese-stylesheets.svg)](https://www.npmjs.com/package/postcss-portuguese-stylesheets)
 
 [PostCSS] plugin for writing Portuguese Stylesheets :portugal:.
 
