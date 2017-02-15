@@ -39,19 +39,18 @@
     text-transform: uppercase;
 }
 ```
+#### [See the complete list of properties and values translated](https://github.com/SaraVieira/postcss-portuguese-stylesheets/blob/master/index.js)
 
 ## Why ?
 
 Idk, mainly boredom and the need to write !caralho in every stylesheet I own.
-
-#### [See the complete list of properties and values translated](https://github.com/SaraVieira/postcss-portuguese-stylesheets/blob/master/index.js)
 
 ## Install
 
 Install from NPM using:
 
 ```
-npm i postcss-portuguese-stylesheets
+npm i postcss-portuguese-stylesheets --save-dev
 ```
 
 ## Usage
