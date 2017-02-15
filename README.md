@@ -42,6 +42,13 @@
 
 #### [See the complete list of properties and values translated](https://github.com/SaraVieira/postcss-portuguese-stylesheets/blob/master/index.js)
 
+## Install
+
+Install from NPM using:
+
+```
+npm i postcss-portuguese-stylesheets
+```
 
 ## Usage
 
