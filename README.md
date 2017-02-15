@@ -1,6 +1,10 @@
 # PostCSS Portuguese Stylesheets
 
-[PostCSS] plugin for writing Portuguese Stylesheets :pt:.
+[PostCSS] plugin for writing Portuguese Stylesheets :portugal:.
+
+[PostCSS]: https://github.com/postcss/postcss
+[ci-img]:  https://travis-ci.org/ismamz/postcss-spanish-stylesheets.svg
+[ci]:      https://travis-ci.org/ismamz/postcss-spanish-stylesheets
 
 ```css
 .foo {
