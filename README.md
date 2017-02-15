@@ -8,25 +8,24 @@
 
 ```css
 .foo {
-    redondeado: 3px;
-    fondo: #fff;
-    ancho: 300px;
-    alto: 200px;
-    flota: izquierda;
-    arriba: 10px;
-    abajo: 0px;
-    izquierda: 100px;
-    derecha: 100px;
-    espaciado: -1px;
-    puntero: manito !importantisimo;
-    text-transform: mayuscula;
+    raio-borda: 3px;
+    fundo: #BADA55;
+    largura: 300px;
+    altura: 200px;
+    float:: esquerda;
+    topo: 10px;
+    fundp: 0px;
+    esquerda: 100px;
+    direita: 100px;
+    cursor: ponteiro !caralho;
+    text-transform: maiuscula;
 }
 ```
 
 ```css
 .foo {
     border-radius: 3px;
-    background: #fff;
+    background: #BADA55;
     width: 300px;
     height: 200px;
     float: left;
@@ -34,7 +33,6 @@
     bottom: 0px;
     left: 100px;
     right: 100px;
-    letter-spacing: -1px;
     cursor: pointer !important;
     text-transform: uppercase;
 }
