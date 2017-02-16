@@ -7,18 +7,18 @@
 [ci]:      https://travis-ci.org/ismamz/postcss-spanish-stylesheets
 
 ```css
-.foo {
+.foodasse {
     raio-borda: 3px;
     fundo: #BADA55;
     largura: 300px;
     altura: 200px;
-    float:: esquerda;
+    float: esquerda;
     topo: 10px;
-    fundp: 0px;
+    fundo: 0px;
     esquerda: 100px;
     direita: 100px;
     cursor: ponteiro !caralho;
-    text-transform: maiuscula;
+    transformacao-texto: maiuscula;
 }
 ```
 
